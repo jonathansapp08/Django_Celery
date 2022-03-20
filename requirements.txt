@@ -1,0 +1,7 @@
+django==4.0.*
+celery==5.2.*
+redis==4.1.*
+celery-progress==0.1.2
+django-celery-results==2.3.0
+sqlalchemy==1.4.32
+psycopg2==2.9.3
